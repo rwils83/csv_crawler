@@ -1,0 +1,453 @@
+name,device_role,tenant,manufacturer,model_name,platform,serial,asset_tag,status,site,rack_group,rack_name,position,face,comments
+01,Access Switch,,Dell,N2048,,,,Active,Biltmore Suite 770 Server Room,,TelCo-Rack2,37,Front,
+4B82HH2,Server,,Dell,R630,,4B82HH2,,Active,NAP Cage 1,,R2-01,,,
+4XN9T52,Server,Buckalew,Dell,R620,,4XN9T52,,Active,Biltmore Suite 500 Server Room,,CS,19,Front,"LOM = 10.20.11.51
+listed as "cs-support-lab-003-homer001"
+05,Access Switch,,Dell,N2048,,,,Active,Biltmore Suite 770 Server Room,,TelCo-Rack2,25,Front,
+06,Access Switch,,Dell,N2048,,,,Active,Biltmore Suite 770 Server Room,,TelCo-Rack2,30,Front,
+07,Access Switch,,Dell,N2048,,,,Active,Biltmore Suite 770 Server Room,,TelCo-Rack2,39,Front,
+08,Access Switch,,Dell,N2048,,,,Active,Biltmore Suite 770 Server Room,,TelCo-Rack2,42,Front,
+09,Access Switch,,Dell,N2048,,,,Active,Biltmore Suite 770 Server Room,,TelCo-Rack3,42,Front,
+9Q490Q2,Server,,Dell,R640,,9Q490Q2,9Q490Q2,Active,NAP Cage 1,,R2-R5,26,Front,
+9Q4B0Q2,Server,,Dell,R640,,9Q4B0Q2,9Q4B0Q2,Active,NAP Cage 1,,R2-R5,27,Front,
+9Q4LRP2,Server,,Dell,R640,,9Q4LRP2,9Q4LRP2,Active,NAP Cage 1,,R2-R5,25,Front,
+9Q4MRP2,Server,,Dell,R640,,9Q4MRP2,9Q4MRP2,Active,NAP Cage 1,,R2-R5,24,Front,
+10,Access Switch,,Dell,N2048,,,,Active,Biltmore Suite 770 Server Room,,TelCo-Rack3,36,Front,
+10.0.1.150,Server,,Dell,R620,Linux,CW8QZ12,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 1,28,Front,
+11,Access Switch,,Dell,N2048,,,,Active,Biltmore Suite 770 Server Room,,TelCo-Rack3,26,Front,
+12,Access Switch,,Dell,N2048,,,,Active,Biltmore Suite 770 Server Room,,TelCo-Rack3,22,Front,
+13KSR22,Server,,Dell,R320,,13KSR22,13KSR22,Inventory,NAP Cage 1,,R2-R5,31,Front,
+128t-lab-cc,Server,,Dell,R620,,385X8Z1,385X8Z1,Active,NAP Cage 1,,R1-05,32,Front,LOM 10.141.8.72
+184Q082,Server,,Dell,R320,,184Q082,184Q082,Inventory,NAP Cage 1,,R2-R5,30,Front,Device is powered off 10/4/18 - CDA
+460-1,Access Switch,Carrier Platform,Extreme,X460-G2,Linux,,,Active,Equinix Silicon Valley,,002035,31,Rear,
+620 201505,Server,,Dell,R620,,8JTWD42,,Active,Biltmore Suite 500 Server Room,,DevOps,19,Front,LOM = 10.20.11.145
+9450-0,Core Switch,Carrier Platform,Brocade,SLX-9540-48S,Brocade-OS,FDK3809P002,,Active,Equinix Silicon Valley,,002035,42,Rear,
+9540-1,Core Switch,Carrier Platform,Brocade,SLX-9540-48S,Brocade-OS,FDK3809P004,,Active,Equinix Silicon Valley,,002035,41,Rear,
+Airavat,Server,,Dell,T430,,,,Active,Biltmore Suite 770 Server Room,,TelCo-Rack3,,,This is a Dell T110 Tower server
+apcon,Server,,Apcon,ACI-3072-XR,,72120079 R3 031416,,Active,NAP Cage 1,,R1-03,40,Front,
+apic1,APIC Management,,Cisco,APIC-SERVER-M2,,FCH2037V3RZ,d7360eea-b583-11e6-a14e-91e59abc086c,Active,NAP Cage 1,,R1-01,33,Front,
+apic2,APIC Management,,Cisco,APIC-SERVER-M2,,FCH2008V0WH,1cec8a5a-bdee-11e6-9036-4933778c9c49,Active,NAP Cage 1,,R1-01,32,Front,
+apic3,APIC Management,,Cisco,APIC-SERVER-M2,,FCH2037V3UK,024b6faa-b564-11e6-8f58-0d96d851aa3e,Active,NAP Cage 1,,R1-01,31,Front,
+APIC LAB 00,Server,,Cisco,APIC-SERVER-M2,,FCH2129VIND,,Active,NAP Cage 1,,R1-06,33,Front,
+Arivat,Server,,Dell,PowerEdge T110,,CHKP5P1,27184079125,Active,Biltmore Suite 770 Server Room,,TelCo-Rack1,,,"Super Micro Desktop platform, behind the Telco Racks"
+ATLAD01,Server,,Dell,R320,,4NB1382,,Active,Biltmore Suite 500 Server Room,,DevOps,35,Front,LOM = 10.20.10.216
+ATLAD00 - Veem Recovery,Server,,Dell,R320,,c5jys52,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 2,36,Front,"This was the former ATLAD00.
+Currently booted into Veem recovery."
+ATLASA00,Firewall,,Cisco,ASA5516-x,,,,Active,Biltmore Suite 770 Server Room,,TelCo-Rack2,32,Front,
+ATLASAC00,Firewall,,Cisco,ASA5508-X,,,,Active,Biltmore Suite 770 Server Room,,TelCo-Rack2,31,Front,
+atlesxfps01,Server,,Dell,R620,,j50fbz1,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 1,32,Front,
+ATLESXi01,Server,,Dell,R330,,BGXFQD2,,Active,Biltmore Suite 800 Server Room,,F8-IT-Rack,38,Front,LOM = 10.20.10.228
+atlesxicd,Server,,Super Micro,8x2.5 Inch Bays (1U),Linux,,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 1,30,Front,
+atlesxics00,Virtualization Host,,Dell,R620,ESXi 5.5,4prvhx1,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 2,21,Front,"LCD does not update, only ST displayed"
+atlesxiit00,Virtualization Host,,Dell,R320,ESXi 6.0,13krr22,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 2,34,Front,
+atlesxiivr00,Virtualization Host,,Dell,R320,Linux,cw6qz12,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 1,20,Front,LOM = 10.20.10.226
+atlesxiivr01,Virtualization Host,,Dell,R620,,FTZTL02,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 1,27,Front,
+atlesxiops00,Virtualization Host,,Super Micro,12x3.5 Inch Bays (2U),ESXi 5.5,,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 2,22,Front,
+atlesxiops02,Virtualization Host,,Super Micro,8x2.5 Inch Bays (1U),ESXi 5.0,SM,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 1,21,Front,
+ATLESXIOPS01,Server,Buckalew,Dell,R620,,4PRWHX1,,Active,Biltmore Suite 500 Server Room,,CS,10,Front,LOM = 0.0.0.0
+atom-lab-01,Server,Operations,Dell,R620,ProxMox VE 5.x,CW8PZ12,,Active,NAP Cage 1,,R2-01,26,Front,https://atom-lab-01.nap.pdrop.net:8006/
+Avaya-G430,Server,,Avaya,G430,,G430 MP120,,Active,Biltmore Suite 500 Server Room,,QA,41,Front,Avaya G430
+bizdev-proxmox-01,Server,,Dell,R630,,FNGY382,FNGY382,Active,NAP Cage 1,,R1-05,26,Front,LOM 10.141.8.91
+blackduck-node-01,Server,,Dell,R620,,8WPXL02,8WPXL02,Active,NAP Cage 1,,R1-06,34,Front,LOM 10.141.8.78
+buildlab-storage,Server,,Super Micro,4x3.5 Inch Bays (1U),,,,Active,NAP Cage 1,,R1-04,14,Front,
+build-services,Server,,Dell,R620,,HHFPD42,HHFPD42,Active,NAP Cage 1,,R1-03,36,Front,LOM 10.141.1.221
+build-services2 fds-r630-02,Server,,Dell,R630,,FNHY382,FNHY382,Active,NAP Cage 1,,R1-03,35,Front,LOM 10.141.1.202
+build-services3 fds-r630-03,Server,,Dell,R620,,FNJ0482,FNJ0482,Active,NAP Cage 1,,R1-03,20,Front,LOM 10.141.1.203
+build-services4 fds-r630-05,Server,,Dell,R620,,FNJ2482,FNJ2482,Active,NAP Cage 1,,R1-03,18,Front,LOM 10.141.1.205
+cable management,Shelf / Cable Management,,Generic,Shelf-CableManagement,,,,Active,Equinix District of Columbia,Cage 005325,0103,33,Rear,
+Cable Management,Shelf / Cable Management,,Generic,Shelf-CableManagement,,,,Active,Equinix District of Columbia,Cage 005325,0104,37,Rear,
+cable management / shelf,Shelf / Cable Management,,Generic,Shelf-CableManagement,,,,Active,Equinix District of Columbia,Cage 005325,0103,38,Rear,
+ccesxiops04,Server,,Dell,R630,,11B9482,11B9482,Active,NAP Cage 1,,R1-02,39,Front,LOM 10.141.8.51
+CCESXIOPS02,Server,,Super Micro,8x3.5 Inch Bays (2U),,,,Active,NAP Cage 1,,R1-02,20,Front,
+Cholima,Server,,Super Micro,5x3.5 Inch Bays (4U),,,,Active,Biltmore Suite 770 Server Room,,TelCo-Rack1,,,Tower Server located behind Telco Racks
+Chollima,Server,,Super Micro,8x3.5 Inch Bays (2U),,,,Active,Biltmore Suite 770 Server Room,,TelCo-Rack3,,,"This is behind Telco rack 1 on Floor 7, in front of Airavat"
+CMC-6ZKDRP2,Server,,Dell,FX2,,6ZKDRP2,6ZKDRP2,Active,NAP Cage 1,,R2-R5,22,Front,CMC IP: 10.141.0.71
+CMC-6ZKFRP2,Server,,Dell,FX2,,6ZKFRP2,6ZKFRP2,Active,NAP Cage 1,,R2-R5,20,Front,CMC IP: 10.141.0.72
+CQ97GB2,Server,,Dell,R630,,CQ97GB2,,Active,NAP Cage 1,,R2-01,,,
+CQ9BGB2,Server,,Dell,R630,,CQ9BGB2,,Active,NAP Cage 1,,R2-01,,,
+CS-184-08,Server,Buckalew,Dell,R620,,4XN8T52,,Active,Biltmore Suite 500 Server Room,,CS,18,Front,LOM = 10.20.11.52
+CS-184-09,Server,Buckalew,Dell,R620,,6VJ4T52,,Active,Biltmore Suite 500 Server Room,,CS,17,Front,LOM = 10.20.11.53
+CS-184-10,Server,Buckalew,Dell,R620,,4XP6T52,,Active,Biltmore Suite 500 Server Room,,CS,16,Front,LOM = 10.20.11.54
+CS-Apcon,Server,,Apcon,ACI-3072-XR,,,,Active,Biltmore Suite 500 Server Room,,CS,40,Rear,
+CS-ESA-02,Server,Buckalew,Dell,R320,,C5JTS52,,Active,Biltmore Suite 500 Server Room,,CS,30,Front,LOM = 10.20.10.34
+CS-ESA-03,Server,Buckalew,Dell,R320,,C5JSS52,,Active,Biltmore Suite 500 Server Room,,CS,29,Front,LOM = 10.20.2.184
+csis-pve-01,Server,,Dell,R620,,4XB8T52,4XB8T52,Active,NAP Cage 1,,R1-05,41,Front,LOM 10.141.0.137
+csis-pve-02,Server,,Dell,R620,,4XC8T52,4XC8T52,Active,NAP Cage 1,,R1-05,40,Front,LOM: 10.141.8.82
+csis-pve-03,Server,,Dell,R620,,4XB7T52,4XB7T52,Active,NAP Cage 1,,R1-05,39,Front,LOM: 10.141.0.138
+csis-pve-04,Server,,Dell,R620,,6XJ0T52,6XJ0T52,Active,NAP Cage 1,,R1-05,38,Front,LOM: 10.141.8.83
+CSIS-R330-01,Server,,Dell,R330,,BV0X482,BV0X482,Active,NAP Cage 1,,R1-07,26,Front,"LOM 10.141.8.60
+ESA01"
+CSIS-R620-02,Server,,Dell,R620,,8JTVD42,8JTVD42,Active,NAP Cage 1,,R1-07,27,Front,LOM 10.141.0.116
+CSIS-R630-01,Server,,Dell,R630,,25PKT52,25PKT52,Active,NAP Cage 1,,R1-07,25,Front,"LOM 10.141.0.113
+dev01"
+cs-nas01,Server,,Dell,R730xd,,7CLMGK2,7CLMGK2,Active,NAP Cage 1,,R1-05,36,Front,LOM: 10.141.8.84
+cs-support-lab-002-app-001,Server,Buckalew,Dell,R630,,6VH9T52,,Active,Biltmore Suite 500 Server Room,,CS,28,Front,LOM = 10.20.11.2
+cs-support-lab-002-app-002,Server,,Dell,R620,,6VF6T52,,Active,Biltmore Suite 500 Server Room,,CS,23,Front,LOM = 10.20.11.6
+cs-support-lab-002-int-002,Server,Buckalew,Dell,R630,,6VH5T52,,Active,Biltmore Suite 500 Server Room,,CS,26,Front,LOM = 10.20.11.3
+cs-support-lab-002-int-03,Server,Buckalew,Dell,R620,,6VH7T52,,Active,Biltmore Suite 500 Server Room,,CS,32,Front,LOM = 10.20.11.45
+cs-support-lab-002-pbr-001,Server,Buckalew,Dell,R630,,6VH6T52,,Active,Biltmore Suite 500 Server Room,,CS,25,Front,LOM = 10.20.11.4
+cs-support-lab-002-pbr-002,Server,Buckalew,Dell,R630,,4XC7T52,,Active,Biltmore Suite 500 Server Room,,CS,31,Front,LOM = 10.20.11.44
+cs-support-lab-003-fds-001,Server,Buckalew,Dell,R630,,6XH9T52,,Active,Biltmore Suite 500 Server Room,,CS,24,Front,LOM = 10.20.11.5
+CS-TelcoBridges,Server,,TelcoBridges,2uTelcoBridges Device,,,,Active,Biltmore Suite 500 Server Room,,CS,36,Front,
+CS-UPS-1,PDU,,APC,Smart-UPS 2200,,,,Active,Biltmore Suite 500 Server Room,,CS,1,Front,
+CS-UPS-2,PDU,,APC,Smart-UPS 2200,,,,Active,Biltmore Suite 500 Server Room,,CS,3,Front,
+CS-UPS-3,PDU,,APC,Smart-UPS 3000,,,,Active,Biltmore Suite 500 Server Room,,CS,5,Front,
+CS-UPS-4,PDU,,APC,Smart-UPS 3000,,,,Active,Biltmore Suite 500 Server Room,,CS,7,Front,
+DC3-460-0,Access Switch,,Extreme,X460-G2,,,,Active,Equinix District of Columbia,Cage 005325,0103,40,Rear,TOP
+DC3-460-1,Access Switch,,Extreme,X460-G2,,,,Active,Equinix District of Columbia,Cage 005325,0103,39,Rear,
+DC3-460-0-1 stacked,Access Switch,,Extreme,X460-G2,Linux,1726N-40548,,Active,Equinix District of Columbia,Cage 005325,0104,,Rear,
+DC3-460-0-lab,Access Switch,,Extreme,X460-G2,,,,Active,Equinix District of Columbia,Cage 005325,0104,40,Rear,
+DC3-460-1-lab,Access Switch,,Extreme,X460-G2,,,,Active,Equinix District of Columbia,Cage 005325,0104,39,Rear,
+DC3-9540-0,Distribution Switch,,Brocade,SLX-9540-48S,Brocade-OS,,,Active,Equinix District of Columbia,Cage 005325,0103,42,Rear,
+DC3-9540-1,Distribution Switch,,Brocade,SLX-9540-48S,Brocade-OS,,,Active,Equinix District of Columbia,Cage 005325,0103,41,Rear,
+DC3 ATT AVPN 1,Router,Carrier Platform,Cisco,ASR 1001,Linux,,,Active,Equinix District of Columbia,Cage 005325,0103,25,Front,
+DC3 ATT AVPN 2,Router,Carrier Platform,Cisco,ASR 1001,Linux,,,Active,Equinix District of Columbia,Cage 005325,0103,24,Front,
+Dell-24JYX42,Access Switch,,Dell,N2048,,24JYX42,24JYX42,Active,NAP Cage 1,,R2-R5,41,Rear,
+Dell-45WZX42,Access Switch,,Dell,N2048,,45WZX42,45WZX42,Active,NAP Cage 1,,R2-R5,40,Rear,
+Dell DMZ,Access Switch,,Dell,N2048,,,,Inventory,NAP Cage 1,,Location pending audit,44,Front,Not in use. Remove this.
+DEV-FDS-185-001,Server,Buckalew,Super Micro,8x3.5 Inch Bays (2U),,,,Active,Biltmore Suite 500 Server Room,,CS,11,Front,
+DEV-FDS-185-002,Server,Buckalew,Super Micro,8x3.5 Inch Bays (2U),,,,Active,Biltmore Suite 500 Server Room,,CS,13,Front,
+DevOps-UPS-1,PDU,,APC,Smart-UPS 3000,,,,Active,Biltmore Suite 500 Server Room,,DevOps,1,Front,
+DevOps-UPS-2,PDU,,APC,Smart-UPS 3000,,,,Active,Biltmore Suite 500 Server Room,,DevOps,3,Front,
+DevOps-UPS-3,PDU,,APC,Smart-UPS 2200,,,,Active,Biltmore Suite 500 Server Room,,DevOps,5,Front,
+DevOps-UPS-4,PDU,,APC,Smart-UPS 2200,,,,Active,Biltmore Suite 500 Server Room,,DevOps,7,Front,
+-discontinued-,Server,,Super Micro,8x2.5 Inch Bays (1U),,,,Inventory,NAP Cage 1,,R1-06,21,Front,
+dpdk-test-01.nap.pdrop.net,Server,,Dell,R640,,89VR7M2,89VR7M2,Active,NAP Cage 1,,R2-02,38,Front,idrac IP: 10.141.8.66
+dpdk-test-02.nap.pdrop.net,Server,,Dell,R640,,89VS7M2,89VS7M2,Active,NAP Cage 1,,R2-02,37,Front,LOM IP: 10.141.0.139
+endeavor,Server,,Super Micro,4x3.5 Inch Bays (1U),,,,Active,NAP Cage 1,,R1-07,33,Front,No IPMI
+engbld01.nap.pdrop.net,Server,,Dell,R620,,CW4PZ12,CW4PZ12,Active,NAP Cage 1,,R1-06,16,Front,LOM 10.141.0.127
+ent-ams,Server,,Dell,R630,,8CSXBM2,8CSXBM2,Active,NAP Cage 1,,R2-03,32,Front,LOM IP: 10.141.0.168
+ent-app01,Server,,Dell,R630,,8CVVBM2,8CVVBM2,Active,NAP Cage 1,,R2-03,34,Front,LOM IP: 10.141.8.109
+ent-app02,Server,,Dell,R630,,8CVWBM2,8CVWBM2,Active,NAP Cage 1,,R2-03,28,Front,LOM IP: 10.141.0.170
+ent-cctg,Server,,Dell,R630,,8CVZBM2,8CVZBM2,Active,NAP Cage 1,,R2-03,31,Front,LOM IP: 10.141.0.129
+ent-esa01,Server,,Dell,R320,,DQHPZ12,DQHPZ12,Active,NAP Cage 1,,R2-03,33,Front,LOM IP: 10.141.0.167
+ent-esa02,Server,,Dell,R320,,DDXSW52,DDXSW52,Active,NAP Cage 1,,R2-03,27,Front,LOM IP: 10.141.0.171
+ent-int01,Server,,Dell,R630,,8CWTBM2,8CWTBM2,Active,NAP Cage 1,,R2-03,37,Front,LOM IP: 10.141.8.107
+ent-int02,Server,,Dell,R630,,8CTTBM2,8CTTBM2,Active,NAP Cage 1,,R2-03,36,Front,LOM IP: 10.141.8.108
+ent-int03,Server,,Dell,R630,,8CVYBM2,8CVYBM2,Active,NAP Cage 1,,R2-03,35,Front,LOM IP: 10.141.0.166
+ent-pbint01,Server,,Dell,R630,,8CSYBM2,8CSYBM2,Active,NAP Cage 1,,R2-03,30,Front,LOM IP: 10.141.8.110
+ent-pbint01-2,Server,,Dell,R630,,8CVTBM2,8CVTBM2,Active,NAP Cage 1,,R2-03,29,Front,LOM IP: 10.141.0.169
+ent-pkt01,Server,,Dell,R630,,8CTVBM2,8CTVBM2,Active,NAP Cage 1,,R2-03,39,Front,LOM IP: 10.141.0.164
+ent-pkt02,Server,,Dell,R330,,8CSZBM2,8CSZBM2,Active,NAP Cage 1,,R2-03,38,Front,LOM IP: 10.141.0.165
+ESXI1,Virtualization Host,,Dell,R640,Linux,,,Active,Equinix Silicon Valley,,002035,35,Front,
+ESXI2,Virtualization Host,,Dell,R640,Linux,,,Active,Equinix Silicon Valley,,002035,34,Front,
+esxi-01.dc3.cp.pindrop.io,Server,,Dell,R640,,JRX4XM2,,Active,Equinix District of Columbia,Cage 005325,0103,27,Front,
+esxi-02.dc3.cp.pindrop.io,Server,,Dell,R640,,JRX5CM2,,Active,Equinix District of Columbia,Cage 005325,0103,26,Front,
+esxijnkslv00,Server,,Super Micro,4x3.5 Inch Bays (1U),,,,Active,NAP Cage 1,,R1-02,25,Front,
+F5-CS-N2048-3,Distribution Switch,,Dell,N2048,,33ZPX42,6771741410,Active,Biltmore Suite 500 Server Room,,CS,42,Rear,
+F5-DevOps-N2448,Distribution Switch,,Dell,N2048,,F3ZPX42,32893129442,Active,Biltmore Suite 500 Server Room,,DevOps,,Rear,
+F5-QA-N2048-4,Distribution Switch,,Dell,N2048,,D3ZPX42,28539564770,Active,Biltmore Suite 500 Server Room,,QA,40,Rear,
+F5-TC1-N2048-1,Distribution Switch,,Dell,N2048,,6DGS0Z1,13874935789,Active,Biltmore Suite 500 Server Room,,TelCo-Rack1,25,Front,
+F5-TC1-N2048-6,Distribution Switch,,Dell,N2048,,2HYBY,543 915 403 4,Active,Biltmore Suite 500 Server Room,,TelCo-Rack1,15,Front,
+F7-R1-ETAP,Management Switch,,DualComm,ETAP,,,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 1,29,Rear,
+F7-R1-N2048,Access Switch,,Dell,N2048,,,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 1,42,Rear,
+F7-R1-UPS-1,PDU,,APC,Smart-UPS 3000,,,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 1,1,Front,
+F7-R1-UPS-2,PDU,,APC,Smart-UPS 3000,,,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 1,3,Front,
+F7-R2-N2048,Access Switch,,Dell,N2048,,,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 2,42,Rear,
+F7-R2-UPS1,PDU,,APC,Smart-UPS 3000,,,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 2,1,Front,
+F7-R2-UPS-2,PDU,,APC,Smart-UPS 3000,,,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 2,3,Front,
+F7-TC2-CCAT-48000-1,Core Switch,,Cisco,ISR4431,,,,Active,Biltmore Suite 770 Server Room,,TelCo-Rack2,35,Front,TOP 48 PORT CISCO SWITCH
+F7-TC2-CCAT-48000-2,Core Switch,,Cisco,ISR4431,,,,Active,Biltmore Suite 770 Server Room,,TelCo-Rack2,34,Front,
+F8-IT-UPS-01,PDU,,APC,Smart-UPS C1500,,,,Active,Biltmore Suite 800 Server Room,,F8-IT-Rack,,,
+F8-TC1-N2048-2,Distribution Switch,,Dell,N2048,,BBGS0Z1,24637915117,Active,Biltmore Suite 500 Server Room,,TelCo-Rack1,24,Front,
+F8-TC-1-N2848-01,Distribution Switch,,Dell,N2048,,114YX42,224 559 619 4,Active,Biltmore Suite 800 Server Room,,TelCo-Rack 1,37,Front,
+F8-TC-1-N2848-02,Distribution Switch,,Dell,N2048,,CJYBY42,273 279 097 46,Active,Biltmore Suite 800 Server Room,,TelCo-Rack 1,32,Front,
+F8-TC-1-N2848-03,Distribution Switch,,Dell,N2048,,2DYBY42,519 728 933 0,Active,Biltmore Suite 800 Server Room,,TelCo-Rack 1,31,Front,
+F8-TC-2-N2848-04,Distribution Switch,,Dell,N2048,,6T1DY42,148 165 434 74,Active,Biltmore Suite 800 Server Room,,TelCo-Rack-2,43,Front,
+F8-TC-2-N2848-05,Distribution Switch,,Dell,N2048,,3HYBY42,761 593 637 0,Active,Biltmore Suite 800 Server Room,,TelCo-Rack-2,37,Front,
+F8-TC-2-N2848-06,Distribution Switch,,Dell,N2048,,,,Active,Biltmore Suite 800 Server Room,,TelCo-Rack-2,32,Front,
+F8-TC-2-N2848-07,Distribution Switch,,Dell,N2048,,3JYBY42,773 686 872 2,Active,Biltmore Suite 800 Server Room,,TelCo-Rack-2,31,Front,
+F8-TC-2-UPS-01,PDU,,APC,Smart-UPS C1500,,,,Active,Biltmore Suite 800 Server Room,,TelCo-Rack-2,,,These are SmartUPS C1500
+F8-TC-3-N2048-11,Distribution Switch,,Dell,N2048,,FS1DY42,343 471 183 22,Active,Biltmore Suite 800 Server Room,,TelCo-Rack 3,31,Front,
+F8-TC-3-N2848-08,Distribution Switch,,Dell,N2048,,9R1DY42,212 259 581 30,Active,Biltmore Suite 800 Server Room,,TelCo-Rack 3,43,Front,
+F8-TC-3-N2848-09,Distribution Switch,,Dell,N2048,,DR1DY42,299 935 536 50,Active,Biltmore Suite 800 Server Room,,TelCo-Rack 3,37,Front,
+F8-TC-3-N2848-10,Distribution Switch,,Dell,N2048,,DS1DY42,,Active,Biltmore Suite 800 Server Room,,TelCo-Rack 3,32,Front,
+FB97GB2,Server,,Dell,R630,,FB97GB2,,Active,NAP Cage 1,,R2-01,,,
+FB9BGB2,Server,,Dell,R630,,FB9BGB2,,Active,NAP Cage 1,,R2-01,,,
+FBB5GB2,Server,,Dell,R630,,FBB5GB2,,Active,NAP Cage 1,,R2-01,,,
+FDHBGB2,Server,,Dell,R630,,FDHBGB2,,Active,NAP Cage 1,,R2-01,,,
+fds-185-11,Server,,Super Micro,8x2.5 Inch Bays (1U),,,,Active,Biltmore Suite 500 Server Room,,QA,11,Front,
+fdsdemosrv01,Server,,Dell,R620,,DSCX942,DSCX942,Active,NAP Cage 1,,R1-06,15,Front,LOM 10.141.0.128
+fds-demosrv02,Server,,Super Micro,10x2.5 Inch Bays (1U),,S15749525805893,S15749525805893,Active,NAP Cage 1,,R1-06,39,Front,
+fds-r630-01,Server,,Dell,R630,,FNJ1482,34074421922,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.201
+fds-r630-04,Server,,Dell,R620,,4PRXHX1,4PRXHX1,Active,NAP Cage 1,,R1-03,19,Front,LOM 10.141.1.204
+fds-r630-06,Server,,Dell,R620,,384Y8Z1,384Y8Z1,Active,NAP Cage 1,,R1-03,17,Front,LOM 10.141.1.206
+fds-r630-07,Server,,Dell,R630,,FNGZ382,34070968082,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.207
+fds-r630-09,Server,,Dell,R630,,FNH0482,34071016034,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.209
+fds-r630-11,Server,,Dell,R630,,FNGX382,34070874770,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.211
+fds-r630-12,Server,,Dell,R630,,FNGW382,34070828114,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.212
+fds-r630-13,Server,,Dell,R630,,FNHW382,34072507730,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.213
+fds-r630-14,Server,,Dell,R630,,FNH5482,FNH5482,Active,NAP Cage 1,,R1-03,34,Front,LOM 10.141.1.214
+fds-r630-15,Server,,Dell,R630,,FNH4482,34071202658,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.215
+fds-r630-16,Server,,Dell,R630,,FNH3482,34071156002,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.216
+fds-r630-17,Server,,Dell,R630,,808VD42,17429158946,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.176
+fds-r630-18,Server,,Dell,R630,,8RN1F42,19085542850,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.177
+fds-r630-19,Server,,Dell,R630,,8082F42,17427808514,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.178
+fds-r630-20,Server,,Dell,R630,,7CBBX52,15982102406,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.179
+fds-r630-21,Server,,Dell,R630,,7CB9X52,15982009094,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.180
+fds-r630-22,Server,,Dell,R630,,4PN1382,10257465746,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.181
+fds-r630-23,Server,,Dell,R620,,CW5NZ12,28065822230,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.182
+fds-r630-24,Server,,Dell,R630,,38XLT52,7070521286,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.217
+fds-r630-25,Server,,Dell,R620,,J50DBZ1,41661817309,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.218
+fds-r630-26,Server,,Dell,R620,,8WP0M02,19391195234,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.220
+fdsui-kvm-01,Server,,Dell,R630,,870R7M2,870R7M2,Active,NAP Cage 1,,R2-04,39,Front,"LOM IP: 10.141.8.86
+
+eth0 IP for tracking down: 10.140.140.161"
+FH1KHQ2,Server,,Dell,R640,,FH1KHQ2,,Active,NAP Cage 1,,R2-R5,15,Front,
+FH1LHQ2,Server,,Dell,R640,,FH1LHQ2,,Active,NAP Cage 1,,R2-R5,18,Front,
+FH1MHQ2,Server,,Dell,R640,,FH1MHQ2,,Active,NAP Cage 1,,R2-R5,19,Front,
+FH1NHQ2,Server,,Dell,R640,,FH1NHQ2,,Active,NAP Cage 1,,R2-R5,16,Front,
+FH1PHQ2,Server,,Dell,R640,,FH1PHQ2,,Active,NAP Cage 1,,R2-R5,17,Front,
+FHV8FB2,Server,,Dell,R330,,FHV8FB2,,Active,NAP Cage 1,,R2-01,,,
+firewall-lab,Firewall,,Cisco,ASA5508-X,,,,Active,Equinix District of Columbia,Cage 005325,0104,36,Front,
+firewall-prod,Firewall,,Cisco,ASA5508-X,,,,Active,Equinix District of Columbia,Cage 005325,0103,37,Front,
+freenas,Server,,Super Micro,12x3.5 Inch Bays (2U),Linux,SM,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 2,32,Front,
+Freestyle01,Server,,Super Micro,8x3.5 Inch Bays (2U),,,,Active,NAP Cage 1,,R1-07,31,Front,
+Freestyle02,Server,,Super Micro,8x3.5 Inch Bays (2U),,,,Active,NAP Cage 1,,R1-07,29,Front,
+Freestyle03,Server,,Super Micro,5x3.5 Inch Bays (4U),,,,Active,NAP Cage 1,,R1-07,9,Front,
+Freestyle04,Server,,Dell,R630,,DF6JFB2,DF6JFB2,Active,NAP Cage 1,,R1-07,13,Front,LOM 10.141.0.104
+FV2MHQ2,Server,,Dell,R640,,FV2MHQ2,,Active,NAP Cage 1,,R2-R5,14,Front,
+FV2NHQ2,Server,,Dell,R640,,FV2NHQ2,,Active,NAP Cage 1,,R2-R5,12,Front,
+FV2PHQ2,Server,,Dell,R640,,FV2PHQ2,,Active,NAP Cage 1,,R2-R5,13,Front,
+FV2QHQ2,Server,,Dell,R640,,FV2QHQ2,,Active,NAP Cage 1,,R2-R5,11,Front,
+FV3JHQ2,Server,,Dell,R640,,FV3JHQ2,,Active,NAP Cage 1,,R2-R5,10,Front,
+FXCLXG2,Server,,Dell,R630,,FXCLXG2,,Active,NAP Cage 1,,R2-01,,,
+genesys-esxi-01,Genesys Lab,,Dell,R630,,3P7Q082,3P7Q082,Active,NAP Cage 1,,R2-02,41,Front,
+genesys-esxi-02,Genesys Lab,,Dell,R630,,3P7N082,,Active,NAP Cage 1,,R2-02,40,Front,
+genesys-esxi-03,Genesys Lab,,Dell,R630,,J3XJGB2,,Active,NAP Cage 1,,R2-02,39,Front,
+Guestnet_ASA,Firewall,,Cisco,ASA5508-X,,,,Active,Biltmore Suite 770 Server Room,,TelCo-Rack2,33,Front,
+H323PB00,Server,,Dell,R630,,11B6482,,Active,Biltmore Suite 500 Server Room,,DevOps,15,Front,Powered off
+hermes.atl.pdrop.net,Server,,Dell,R620,,4PSVHX1,,Active,Biltmore Suite 500 Server Room,,QA,15,Front,"LOM = 10.20.15.1 orly?
+slewis is POC"
+Honeywell-01,Server,,Honeywell,Honeywell 2u Server,,,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 2,17,Front,
+Honeywell-02,Server,,Honeywell,Honeywell 1U server,,,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 2,19,Front,IP on front = 192.168.1.103
+HP-V1910-48G,Management Switch,,HP,HP 48 port managed switch,,,,Active,Biltmore Suite 500 Server Room,,DevOps,42,Rear,
+hyperv01,Server,,Dell,R330,,BS0SPD2,,Active,Biltmore Suite 500 Server Room,,QA,19,Front,LOM = 10.20.10.51
+intsw00,Distribution Switch,,Cisco,WS-C2960X-24TS-L,,FCW2040B0GR,,Active,NAP Cage 1,,R1-01,43,Front,
+intsw01,Distribution Switch,,Cisco,WS-C2960X-24TS-L,,FCW2040B0H2,,Active,NAP Cage 1,,R1-01,44,Front,
+ISC-1,ISC,,Metaswitch,ISC-R630-2CORE,,F91C8M2,,Active,Equinix District of Columbia,Cage 005325,0103,36,Front,
+ISC-2,ISC,,Metaswitch,ISC-R630-2CORE,,F91B8M2,,Active,Equinix District of Columbia,Cage 005325,0103,35,Front,
+ISC-SP,ISC,,Metaswitch,ISC-R630-2CORE,,F9198M2,,Active,Equinix District of Columbia,Cage 005325,0103,34,Front,
+ITNAS01,Server,,Dell,PowerVault MD1200,,bfmqp2,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 2,30,Front,
+ITNAS01-Disk,Server,,Dell,PowerVault MD1200,Linux,dl9t8n2,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 2,28,Front,Disk Tray below itnas01
+ixia01,Server,,Ixia,XGS2,,603375,,Offline,NAP Cage 1,,R1-03,37,Front,
+J9HCGB2,Server,,Dell,R330,,J9HCGB2,,Active,NAP Cage 1,,R2-01,,,
+jenkins-slave06,Server,,Dell,R620,,CW8PZ12,CW8PZ12,Planned,Equinix District of Columbia,Cage 005325,0103,,Front,LOM @ NAP 10.141.8.85
+jenkins-slave07,Server,,Dell,R620,,CW6NZ12,CW6NZ12,Active,NAP Cage 1,,R1-02,23,Front,"idrac ip: 10.141.0.141
+
+As far as I can tell, this host does not look to be used in jenkins."
+jenkins-slave08,Server,,Dell,R620,,CW6PZ12,CW6PZ12,Active,NAP Cage 1,,R1-02,22,Front,"LOM 10.141.0.140
+
+Tracked as fds-kernel-builder in jenkins2:
+
+https://jenkins2.cc.pdrop.net/computer/fds-kernel-builder/configure
+
+This is Still in use. 
+Contact is David Rines"
+kojimaster.ss.nap.pdrop.net,Server,,Dell,R320,,184P082,184P082,Active,NAP Cage 1,,R1-07,42,Front,LOM 10.141.0.110
+Lloyds FDPI-R1AH,Server,,Dell,R620,,BS0QPD2,,Active,Biltmore Suite 500 Server Room,,QA,20,Front,lom_ip: 10.20.10.52
+localhost,Server,,Dell,R620,,FNHX382,FNHX382,Active,NAP Cage 1,,R1-05,30,Front,LOM 10.141.1.204
+localhost (CentOS 7),Server,,Dell,R620,,FNHZ382,FNHZ382,Active,NAP Cage 1,,R1-05,29,Front,LOM: 10.141.1.206
+localhost (oVirt),Server,,Super Micro,10x2.5 Inch Bays (1U),,05897,05897,Active,NAP Cage 1,,R1-06,18,Front,
+lomsw00,Management Switch,,Cisco,WS-C2960X-48TS-L,,FCW2034B1P9,,Active,NAP Cage 1,,R1-01,47,Front,
+lomsw01,Management Switch,,Cisco,WS-C2960X-48TS-L,,FCW2034B1R0,,Active,NAP Cage 1,,R1-02,47,Front,
+lomsw03,Management Switch,,Cisco,WS-C2960X-48TS-L,,FCW2034B1UJ,,Active,NAP Cage 1,,R1-03,47,Front,
+lomsw04,Management Switch,,Cisco,WS-C2960X-48TS-L,,FCW2045B2CY,,Active,NAP Cage 1,,R1-04,47,Front,
+lomsw05,Management Switch,,Cisco,WS-C2960X-48TS-L,,FCW2045B2DC,,Active,NAP Cage 1,,R1-05,47,Front,
+lomsw06,Management Switch,,Cisco,WS-C2960X-48TS-L,,FCW2045B2DN,,Active,NAP Cage 1,,R1-06,47,Front,
+lomsw07,Management Switch,,Cisco,WS-C2960X-48TS-L,,FCW2045B2AW,,Active,NAP Cage 1,,R1-07,47,Front,
+Mac Pro,Server,,Apple,Mac Pro,,,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 1,,Rear,
+MSC1,MSC,Carrier Platform,Metaswitch,MSC-R630-1CORE,Linux,,,Active,Equinix Silicon Valley,,002035,38,Rear,
+MSC2,MSC,Carrier Platform,Metaswitch,MSC-R630-1CORE,Linux,,,Active,Equinix Silicon Valley,,002035,37,Rear,
+MSC-1,MSC,,Metaswitch,MSC-R630-1CORE,,F92B8M2,,Active,Equinix District of Columbia,Cage 005325,0103,32,Front,
+MSC-2,MSC,,Metaswitch,MSC-R630-1CORE,,F91F8M2,,Active,Equinix District of Columbia,Cage 005325,0103,31,Front,
+MSC spare,MSC,Carrier Platform,Metaswitch,MSC-R630-1CORE,Linux,,,Active,Equinix Silicon Valley,,002035,36,Rear,
+napacilf04,APIC Leaf,,Cisco,N9K-C93120TX,,FDO21131N7A,,Active,NAP Cage 1,,R1-05,45,Front,
+napacilf05,Server,,Cisco,N9K-C93120TX,,FDO21131N44,,Active,NAP Cage 1,,R1-06,45,Front,
+napacilf06,APIC Leaf,,Cisco,N9K-C93120TX,,FDO20401B33,,Active,NAP Cage 1,,R1-07,45,Front,
+NAPACILF07,APIC Leaf,,Cisco,N9K-C93120TX,,FDO22042NFH,,Active,NAP Cage 1,,R2-01,45,Rear,
+NAPACILF08,APIC Leaf,,Cisco,N9K-C93120TX,,FDO22042N5N,,Active,NAP Cage 1,,R2-02,45,Rear,
+napacilf00-a,APIC Leaf,,Cisco,N9K-C9372TX-E,,FDO2024094W,,Active,NAP Cage 1,,R1-01,35,Front,
+napacilf00-b,APIC Leaf,,Cisco,N9K-C9372TX-E,,FDO202616N3,,Active,NAP Cage 1,,R1-01,34,Front,
+napacilf01-a,APIC Leaf,,Cisco,N9K-C9372TX-E,,FDO202616N0,,Active,NAP Cage 1,,R1-02,46,Front,
+napacilf01-b,APIC Leaf,,Cisco,N9K-C9372TX-E,,FDO202616H4,,Active,NAP Cage 1,,R1-02,45,Front,
+napacilf02-a,APIC Leaf,,Cisco,N9K-C9372TX-E,,FDO20230AUX,,Active,NAP Cage 1,,R1-03,46,Front,
+napacilf02-b,APIC Leaf,,Cisco,N9K-C9372TX-E,,FDO20230AQQ,,Active,NAP Cage 1,,R1-03,45,Front,
+napacilf03-a,APIC Leaf,,Cisco,N9K-C9372TX-E,,FDO20240915,,Active,NAP Cage 1,,R1-04,46,Front,
+napacilf03-b,APIC Leaf,,Cisco,N9K-C9372TX-E,,FDO202616LE,,Active,NAP Cage 1,,R1-04,45,Front,
+napacisp-a,APIC Spine,,Cisco,N9K-C9336PQ,,SAL2027SZWJ,,Active,NAP Cage 1,,R1-01,38,Front,
+napacisp-b,APIC Spine,,Cisco,N9K-C9336PQ,,SAL2036UVXG,,Active,NAP Cage 1,,R1-01,36,Front,
+napad01,Server,,Dell,R320,,1BNTZ72,1BNTZ72,Active,NAP Cage 1,,R1-01,29,Front,
+napad02,Server,,Dell,R320,,DQHQZ12,DQHQZ12,Active,NAP Cage 1,,R1-01,30,Front,
+napasa01,Firewall,,Cisco,ASA5555,,FCH20357ZVJ,,Active,NAP Cage 1,,R1-01,41,Front,
+napasa02,Firewall,,Cisco,ASA5555,,FCH20417XX6,,Active,NAP Cage 1,,R1-01,42,Front,
+napisr00,Router,,Cisco,ISR4431,,FJC2040D0RJ,,Active,NAP Cage 1,,R1-01,46,Front,
+napisr01,Router,,Cisco,ISR4431,,FJC2040D0RK,,Active,NAP Cage 1,,R1-01,45,Front,
+naplomsw01 stack member 1,LOM Switch,,Cisco,WS-C2960X-48TS-L,,FCW2148B5C1,,Active,NAP Cage 1,,R2-01,47,Rear,
+naplomsw01 stack member 2,LOM Switch,,Cisco,WS-C2960X-48TS-L,,FOC2148V1NT,,Active,NAP Cage 1,,R2-02,47,Rear,
+nas01,Server,,Super Micro,12x3.5 Inch Bays (2U),,,,Active,NAP Cage 1,,R1-02,28,Front,
+nas02,Server,,Super Micro,12x3.5 Inch Bays (2U),,,,Active,NAP Cage 1,,R1-02,26,Front,
+nas03,Server,,Super Micro,8x3.5 Inch Bays (2U),,,,Active,NAP Cage 1,,R1-02,33,Front,
+nas04,Server,,Super Micro,8x3.5 Inch Bays (2U),,,,Active,NAP Cage 1,,R1-02,16,Front,
+networkservices2,Server,,Dell,R620,,385W8Z1,385W8Z1,Active,NAP Cage 1,,R1-07,37,Front,LOM 10.141.8.59
+networkservices.ss.nap.pdrop.net,Server,,Dell,R630,,DF6KFB2,DF6KFB2,Active,NAP Cage 1,,R1-07,43,Front,LOM 10.141.8.54
+new freestyle01,Server,,Dell,R630,,870Q7M2,,Staged,NAP Cage 1,,R2-01,25,Front,
+new freestyle02,Server,,Dell,R630,,870N7M2,,Active,NAP Cage 1,,Location pending audit,,,
+nyp-pdrpapp1-cj,Server,,Dell,R630,,FNH0482,FNH0482,Active,NAP Cage 1,,R2-02,29,Front,LOM IP: 10.141.1.209
+nyp-pdrpapp2-cj,Server,,Dell,R630,,FNH1482,FNH1482,Active,NAP Cage 1,,R2-02,28,Front,LOM IP: 10.141.1.210
+nyp-pdrpia1-cj,Server,,Dell,R630,,38XLT52,38XLT52,Active,NAP Cage 1,,R2-02,30,Front,LOM IP: 10.141.1.217
+nyp-pdrpia1-csc,Server,,Dell,R630,,J50DBZ1,J50DBZ1,Active,NAP Cage 1,,R2-02,31,Front,LOM IP: 10.141.1.218
+nyp-pdrpia1-dsc,Server,,Dell,R630,,FNH4482,FNH4482,Active,NAP Cage 1,,R2-02,33,Front,LOM IP: 10.141.1.215
+nyp-pdrpia1-ho,Server,,Dell,R630,,FNH3482,FNH3482,Active,NAP Cage 1,,R2-02,32,Front,LOM IP: 10.141.1.216
+onboarding-a,Server,,Super Micro,8x3.5 Inch Bays (2U),,,,Active,NAP Cage 1,,R1-07,22,Front,no IPMI
+onboarding-b,Server,,Super Micro,8x3.5 Inch Bays (2U),,,,Active,NAP Cage 1,,R1-07,20,Front,
+onboarding-c,Server,,Super Micro,8x2.5 Inch Bays (1U),,,,Active,NAP Cage 1,,R1-07,17,Front,
+onboarding-d,Server,,Super Micro,8x2.5 Inch Bays (1U),,,,Active,NAP Cage 1,,R1-07,16,Front,
+onboarding-e,Server,,Super Micro,10x2.5 Inch Bays (1U),,,,Active,NAP Cage 1,,R1-07,15,Front,
+onboarding-f,Server,,Super Micro,10x2.5 Inch Bays (1U),,,,Active,NAP Cage 1,,R1-07,14,Front,
+ops-nas-01.nap.pdrop.net,Server,,Dell,R540,,BFZLQP2,BFZLQP2,Active,NAP Cage 1,,R1-02,35,Front,IDRAC IP:
+opsutil01,Server,,Dell,R620,,CW5QZ12,CW5QZ12,Active,NAP Cage 1,,R1-02,18,Front,LOM 10.141.8.53
+orly-app01,Server,,Dell,R620,,385Y8Z1,385Y8Z1,Active,NAP Cage 1,,R1-05,27,Front,LOM 10.141.8.113
+orly-int01,Server,,Dell,R620,,7KY5942,7KY5942,Active,NAP Cage 1,,R1-05,28,Front,LOM 10.141.8.112
+orly-pkt01,Server,,Dell,R620,,CW4QZ12,CW4QZ12,Active,NAP Cage 1,,R1-05,31,Front,LOM 10.141.8.69
+ovirtengine,Server,,Super Micro,10x2.5 Inch Bays (1U),,05908,05908,Active,NAP Cage 1,,R1-06,19,Front,
+ovirtnode01,Server,,Super Micro,10x2.5 Inch Bays (1U),,05918,05918,Active,NAP Cage 1,,R1-06,17,Front,
+ovirtnode04,Server,,Dell,R620,,384W8Z1,384W8Z1,Active,NAP Cage 1,,R1-07,36,Front,LOM 10.141.0.112
+passcallcapture,Server,,Dell,R620,Linux,384y8z1,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 2,35,Front,Front LCD displays only ST
+pdu-0.002045.sv1.eqx,PDU,,Chatsworth,L5-1F0C3,,,,Active,Equinix Silicon Valley,,002035,,Rear,Right
+pdu-0.r103.dc3.eqx,PDU,,Chatsworth,L5-1F0C3,,,,Active,Equinix District of Columbia,Cage 005325,0103,,Rear,Right
+pdu-0.r104.dc3.eqx,PDU,,Chatsworth,L5-1F0C3,,,,Active,Equinix District of Columbia,Cage 005325,0104,,,
+pdu-1.002045.sv1.eqx,PDU,,Chatsworth,L5-1F0C3,,,,Active,Equinix Silicon Valley,,002035,,Rear,Left
+pdu-1.r103.dc3.eqx,PDU,,Chatsworth,L5-1F0C3,,,,Active,Equinix District of Columbia,Cage 005325,0103,,Rear,Left
+Pending (from Carlos),Server,,Super Micro,Blade Server,,,,Active,NAP Cage 1,,R1-07,34,Front,Get IPMI + blade s/n from Carlos
+pinlb-build-01,Server,,Super Micro,10x2.5 Inch Bays (1U),,,,Active,NAP Cage 1,,R1-05,25,Front,
+powerin.dc3.eqx,PDU,,Equinix,Equinix-Distribution,,,,Active,Equinix District of Columbia,Cage 005325,0103,,,
+powerin.sv1.eqx,PDU,,Equinix,Equinix-Distribution,,,,Active,Equinix Silicon Valley,,002035,,,
+PowerVault Chassis,Server,,Dell,PowerVault MD3420,,FSRXTQ2,FSRXTQ2,Active,NAP Cage 1,,R2-R5,28,Front,JBOD Device
+prakash01,Server,,Dell,R620,,386W8Z1,386W8Z1,Active,NAP Cage 1,,R1-06,28,Front,LOM: 10.141.0.122
+prakash-db-01,Server,,Dell,R730,,9L7D482,9L7D482,Active,NAP Cage 1,,R1-05,34,Front,LOM 10.141.8.111
+proxmox-c01-h01,Server,,Dell,R630,,15HVKB2,15HVKB2,Active,NAP Cage 1,,R1-02,44,Front,LOM 10.141.0.114
+proxmox-c01-h02,Server,,Dell,R630,,15HXKB2,15HXKB2,Active,NAP Cage 1,,R1-02,43,Front,LOM 10.141.0.32
+proxmox-c01-h03,Server,,Dell,R630,,15GXKB2,15GXKB2,Active,NAP Cage 1,,R1-02,42,Front,LOM 10.141.0.33
+proxmox-c01-h04,Server,,Dell,R630,,11BB482,11BB482,Active,NAP Cage 1,,R1-02,41,Front,LOM 10.141.8.56
+proxmox-c01-h05,Server,,Dell,R630,,11B7482,11B7482,Active,NAP Cage 1,,R1-02,40,Front,LOM 10.141.8.55
+proxmox-dmz-01,Server,,Dell,R320,,870WX12,870WX12,Active,NAP Cage 1,,R1-06,36,Front,LOM 10.141.8.79
+proxmox-dmzdemo-02,Server,,Dell,R620,,CB1X942,CB1X942,Active,NAP Cage 1,,R1-06,37,Front,LOM: 10.141.8.87
+proxmox-jenkins-h01,Server,,Dell,R730,,9L7F482,9L7F482,Active,NAP Cage 1,,R1-02,37,Front,LOM 10.141.8.58
+proxmox-ops01,Server,,Dell,R620,Linux,15HWKB2,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 1,31,Front,LOM = 10.20.2.128
+QA-UPS-1,PDU,,APC,Smart-UPS 2200,,,,Active,Biltmore Suite 500 Server Room,,QA,1,Front,
+QA-UPS-2,PDU,,APC,Smart-UPS 2200,,,,Active,Biltmore Suite 500 Server Room,,QA,3,Front,
+QA-UPS-3,PDU,,APC,Smart-UPS 3000,,,,Active,Biltmore Suite 500 Server Room,,QA,5,Front,
+QA-UPS-4,PDU,,APC,Smart-UPS 3000,,,,Active,Biltmore Suite 500 Server Room,,QA,7,Front,
+rdnpndappp01,Server,,Dell,R630,,JLG8FB2,JLG8FB2,Active,NAP Cage 1,,R1-04,15,Front,LOM 10.141.1.70
+rdnpndappp02,Server,,Dell,R630,,FDGBGB2,FDGBGB2,Active,NAP Cage 1,,R2-R5,39,Front,LOM 10.141.1.71
+rdnpndintp01,Server,,Dell,R630,,25JMT52,25JMT52,Active,NAP Cage 1,,R1-04,27,Front,LOM 10.141.1.11
+rdnpndintp03,Server,,Dell,R630,,25KKT52,25KKT52,Active,NAP Cage 1,,R1-04,31,Front,LOM 10.141.1.13
+rdnpndintp04,Server,,Dell,R630,,261LT52,261LT52,Active,NAP Cage 1,,R1-04,41,Front,LOM 10.141.1.14
+rdnpndintp06,Server,,Dell,R630,,4H79W52,4H79W52,Active,NAP Cage 1,,R1-04,40,Front,LOM 10.141.1.21
+rdnpndintp07,Server,,Dell,R630,,7CG1X52,7CG1X52,Active,NAP Cage 1,,R1-04,29,Front,LOM 10.141.1.22
+rdnpndintp08,Server,,Dell,R630,,7CGBX52,7CGBX52,Active,NAP Cage 1,,R1-04,24,Front,LOM 10.141.1.23
+rdnpndintp09,Server,,Dell,R630,,7CH3X52,7CH3X52,Active,NAP Cage 1,,R1-04,39,Front,LOM 10.141.1.24
+rdnpndpbrp01,Server,,Dell,R630,,4PM2382,4PM2382,Active,NAP Cage 1,,R1-03,23,Front,LOM 10.141.1.19
+rdnpndpbrp03,Server,,Dell,R630,,4PM3382,10255879442,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.29
+Reclaim2-OPS-8043,Server,,Dell,R630,,JLDCFB2,JLDCFB2,Active,NAP Cage 1,,R1-04,18,Front,LOM 10.141.1.41
+Reclaim-OPS-8043,Server,,Dell,R630,,25KHT52,25KHT52,Active,NAP Cage 1,,R1-04,22,Front,LOM 10.141.1.12
+researchesxi01,Server,,Dell,R620,,FTZXL02,FTZXL02,Active,NAP Cage 1,,R1-07,24,Front,LOM 10.141.8.75
+res-gpu-01,Server,,Dell,C4130,,H6WTMN2,,Active,NAP Cage 1,,R2-01,37,Front,idrac IP: 10.141.0.142
+res-nas-01.nap.pdrop.net,Server,,Dell,R540,,4CBDCP2,4CBDCP2,Active,NAP Cage 1,,R1-02,30,Front,IDRAC IP: 10.141.0.144
+res-perf01,Server,,Dell,R320,,B4Y6842,24243867794,Active,NAP Cage 1,,R1-07,19,Front,IDRAC: 10.141.8.106 / res-perf01.idrac.pdrop.net
+res-perf02,Server,,Dell,R320,,CSRXT52,CSRXT52,Active,NAP Cage 1,,R1-07,18,Front,10.141.8.102
+rvapndintp01,Server,,Dell,R630,,8QMKT52,19024301702,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.31
+rvapndintp02,Server,,Dell,R630,,8QMLT52,19024348358,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.32
+rvapndintp03,Server,,Dell,R630,,8QMMT52,19024395014,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.33
+rvapndintp04,Server,,Dell,R630,,JLFDFB2,JLFDFB2,Active,NAP Cage 1,,R2-04,35,Front,LOM 10.141.1.34
+rvapndintp07,Server,,Dell,R630,,JLF9FB2,JLF9FB2,Active,NAP Cage 1,,R2-R5,36,Front,LOM 10.141.1.42
+rvapndintp08,Server,,Dell,R630,,JLF7FB2,42654194750,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.43
+rvapndintp09,Server,,Dell,R630,,JLFBFB2,42654381374,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.44
+rvapndpbrp01,Server,,Dell,R630,,4PMX282,4PMX282,Active,NAP Cage 1,,R1-03,22,Front,LOM 10.141.1.39
+rvapndpbrp03,Server,,Dell,R630,,4PN2382,10257512402,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.49
+sangoma,Server,,Dell,R320,,13LRR22,13LRR22,Active,NAP Cage 1,,R1-02,1,Front,LOM 10.141.8.57
+SAS-1,SAS,,Metaswitch,SAS-R730XD,,HKL78M2,,Active,Equinix District of Columbia,Cage 005325,0103,28,Front,
+secopsesa02? (OFF),Server,,Dell,R620,,DQJMZ12,DQJMZ12,Active,NAP Cage 1,,R1-06,27,Front,LOM: 10.141.0.131
+secopstest01,Server,,Dell,R620,,FTZYL02,34465654226,Active,NAP Cage 1,,R1-06,26,Front,LOM 10.141.0.121
+secopstest2,Server,,Super Micro,8x2.5 Inch Bays (1U),,08136,08136,Active,NAP Cage 1,,R1-06,20,Front,
+sfopndintp01,Server,,Dell,R630,,JLHBFB2,JLHBFB2,Active,NAP Cage 1,,R1-04,25,Front,LOM 10.141.1.51
+sfopndintp02,Server,,Dell,R630,,JLJ7FB2,JLJ7FB2,Active,NAP Cage 1,,R2-R5,35,Front,LOM 10.141.1.52
+sfopndintp03,Server,,Dell,R630,,JLHDFB2,JLHDFB2,Active,NAP Cage 1,,R2-R5,37,Front,LOM 10.141.1.53
+sfopndintp04,Server,,Dell,R630,,JLJDFB2,JLJDFB2,Active,NAP Cage 1,,R1-04,28,Front,LOM 10.141.1.54
+sfopndintp06,Server,,Dell,R630,,JLH7FB2,42657553982,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.61
+sfopndintp08,Server,,Dell,R630,,JLHCFB2,JLHCFB2,Active,NAP Cage 1,,R2-R5,38,Front,LOM 10.141.1.63
+sfopndintp09,Server,,Dell,R630,,JLJBFB2,JLJBFB2,Active,NAP Cage 1,,R2-04,36,Front,LOM 10.141.1.64
+sfopndpbrp01,Server,,Dell,R630,,4PMZ282,10257371138,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.59
+sfopndpbrp03,Server,,Dell,R630,,4PN0382,10257419090,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.69
+Shelf,Shelf / Cable Management,,Generic,Shelf-CableManagement,,,,Active,Equinix District of Columbia,Cage 005325,0104,38,Rear,
+SIPREC-ESXI,Server,,Dell,R320,,870XX12,870XX12,Active,NAP Cage 1,,R1-06,35,Front,LOM 10.141.8.74
+skunk-lab01,Server,,Dell,R330,,,,Active,Equinix District of Columbia,Cage 005325,0104,35,Front,
+skunk-lab02,Server,,Dell,R330,,,,Active,Equinix District of Columbia,Cage 005325,0104,34,Front,
+skunk-lab03,Server,,Dell,R330,,,,Active,Equinix District of Columbia,Cage 005325,0104,33,Front,
+SM1,Server,,Super Micro,8x3.5 Inch Bays (2U),,S09628225215552,S09628225215552,Active,NAP Cage 1,,R1-07,40,Front,software services
+SM2,Server,,Super Micro,8x3.5 Inch Bays (2U),,S09628225215577,S09628225215577,Active,NAP Cage 1,,R1-07,38,Front,software services
+splunk01,Server,,Dell,R320,Ubuntu 14 LTS,bgwkqd2,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 2,8,Front,
+splunk01.nap.pdrop.net,Server,,Dell,R320,,BGWLQD2,BGWLQD2,Active,NAP Cage 1,,R1-02,19,Front,LOM 10.141.0.105
+ss7-01,Server,,Dell,R320,Ubuntu 14 LTS,cstzt52,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 1,23,Front,
+ss7-02,Server,,Dell,R320,Ubuntu 14 LTS,cstxt52,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 1,22,Front,LOM = 192.168.0.120
+SSC1,SSC,Carrier Platform,Metaswitch,SSC-R630-2CORE,Linux,,,Active,Equinix Silicon Valley,,002035,30,Rear,
+SSC2,SSC,Carrier Platform,Metaswitch,SSC-R630-2CORE,,,,Active,Equinix Silicon Valley,,002035,29,Rear,
+ss-powervault-01.nap.pdrop.net,Server,,Dell,PowerVault MD1200,,6HK00M2,6HK00M2,Active,NAP Cage 1,,R2-R5,33,Front,JBOD device
+s-support-lab-002-int-001,Server,Buckalew,Dell,R630,,6VH8T52,,Active,Biltmore Suite 500 Server Room,,CS,27,Front,LOM = 10.20.11.128
+stress14g-ams-donna,Server,,Dell,R640,,FGZPHQ2,FGZPHQ2,Active,NAP Cage 1,,R2-03,17,Front,LOM = 10.141.8.116
+stress14g-app01-chris,Server,,Dell,R640,,FV3NHQ2,FV3NHQ2,Active,NAP Cage 1,,R2-03,26,Front,LOM = 10.141.0.173
+stress14g-app02-ann,Server,,Dell,R640,,FV3LHQ2,FV3LHQ2,Active,NAP Cage 1,,R2-03,25,Front,LOM = 10.141.0.174
+stress14g-broker01-tom,Server,,Dell,R640,,FH0JHQ2,FH0JHQ2,Active,NAP Cage 1,,R2-03,18,Front,LOM = 10.141.0.181
+stress14g-esa-april,Server,,Dell,R640,,DJ8NHQ2,DJ8NHQ2,Active,NAP Cage 1,,R2-03,21,Front,LOM = 10.141.0.179
+stress14g-int01-leslie,Server,,Dell,R640,,FV3PHQ2,FV3PHQ2,Active,NAP Cage 1,,R2-03,24,Front,LOM = 10.141.0.175
+stress14g-int02-ron,Server,,Dell,R640,,FV3KHQ2,FV3KHQ2,Active,NAP Cage 1,,R2-03,23,Front,LOM = 10.141.0.176
+stress14g-int03-jerry,Server,,Dell,R640,,FV3MHQ2,FV3MHQ2,Active,NAP Cage 1,,R2-03,22,Front,LOM = 10.141.0.177
+stress14g-pbint01-andy,Server,,Dell,R640,,DJ8PHQ2,DJ8PHQ2,Active,NAP Cage 1,,R2-03,20,Front,"LOM = 10.141.0.183
+
+(was 10.141.0.179 before replacing planar board 10/2/18 - CDA)"
+stress14g-pbint02-ben,Server,,Dell,R640,,FGZNHQ2,FGZNHQ2,Active,NAP Cage 1,,R2-03,19,Front,LOM = 10.141.0.180
+stress-atl-int06,Server,,Dell,R630,,CW5NZ12,CW5NZ12,Active,NAP Cage 1,,R2-04,12,Front,LOM IP: 10.141.1.182
+stress-cctg,Server,,Dell,R630,,FNGZ372,FNGZ382,Active,NAP Cage 1,,R2-04,11,Front,LOM IP: 10.141.1.207
+Summit 400-24T,Management Switch,,Extreme,X460-G2,,0611G-00667,,Active,Biltmore Suite 500 Server Room,,DevOps,41,Front,1U . not really an X460-G2 it is a 400-24T model #16131
+SV1-460-0-1,Access Switch,,Extreme,X460-G2,Linux,1748N-47398,,Active,Equinix Silicon Valley,,002035,32,Rear,
+SV1 ATT AVPN 1,Router,Carrier Platform,Cisco,ASR 1001,Linux,,,Active,Equinix Silicon Valley,,002035,28,Front,
+SV1 ATT AVPN 2,Router,Carrier Platform,Cisco,ASR 1001,Linux,,,Active,Equinix Silicon Valley,,002035,27,Front,
+TAP 02,Management Switch,,DualComm,ETAP,,ETAP-2105,,Active,Biltmore Suite 500 Server Room,,DevOps,,,CS-gregbuckalew-02
+TAP-01,Management Switch,,DualComm,ETAP,,ETAP-2105,,Active,Biltmore Suite 500 Server Room,,DevOps,,,"dualcomm ETAP-2105 
+CS-gbuckalew"
+TC-03-UPS1,PDU,,APC,Smart-UPS C1500,,,,Active,Biltmore Suite 800 Server Room,,TelCo-Rack 3,,,
+TC-1-01,Access Switch,,Dell,N2048,,,,Active,Biltmore Suite 770 Server Room,,TelCo-Rack1,41,Front,
+TC-1-04,Access Switch,,Dell,N2048,,,,Active,Biltmore Suite 770 Server Room,,TelCo-Rack1,22,Front,
+TC1-02,Access Switch,,Dell,N2048,,,,Active,Biltmore Suite 770 Server Room,,TelCo-Rack1,38,Front,
+TC1-03,Access Switch,,Dell,N2048,,,,Active,Biltmore Suite 770 Server Room,,TelCo-Rack1,26,Front,
+TelcoBridges,Server,,TelcoBridges,2uTelcoBridges Device,,TB016380,,Active,Biltmore Suite 500 Server Room,,DevOps,9,Front,telcobridge 2U
+temp tdm generator,Server,,Super Micro,4x3.5 Inch Bays (1U),,,,Active,Biltmore Suite 500 Server Room,,DevOps,26,Front,GLIM's old box
+THAIN APP 00,Server,,Dell,R620,,CW5PZ12,,Active,Biltmore Suite 500 Server Room,,DevOps,18,Front,LOM = 10.20.10.219
+THAIN BPINT 00,Server,,Dell,R630,,119C482,,Active,Biltmore Suite 500 Server Room,,DevOps,17,Front,LOM = 10.20.10.220
+THAIN PBINT 01,Server,,Dell,R630,,11B8482,,Active,Biltmore Suite 500 Server Room,,DevOps,16,Front,LOM = 10.20.10.221
+tooling-kvm01,Server,,Dell,R930,,1SPC482,1SPC482,Active,NAP Cage 1,,R1-06,22,Front,LOM 10.141.0.120
+tooling-kvm02,Server,,Dell,R630,,870P7M2,870P7M2,Active,NAP Cage 1,,R2-04,40,Front,LOM IP: 10.141.0.143
+tooling-kvmtmp-01,Server,,Dell,R630,,870N7M2,870N7M2,Active,NAP Cage 1,,R2-04,38,Front,LOM IP: 10.141.8.89
+UNLABED SM,Server,,Super Micro,4x3.5 Inch Bays (1U),,,,Active,Biltmore Suite 500 Server Room,,DevOps,40,Front,Powered OFF
+Unlabled,Server,,Dell,R620,,j4zv8z1,,Active,Biltmore Suite 770 Server Room,,Floor 7 Rack 2,26,Front,"No Console Response
+LCD only displays ST"
+Unlabled-XPS,Server,,Dell,T430,,,,Active,Biltmore Suite 770 Server Room,,TelCo-Rack1,,,
+V6100,Server,,Super Micro,4x3.5 Inch Bays (1U),,,,Active,Biltmore Suite 500 Server Room,,DevOps,39,Front,Taped up SN'd drives
+voltron-01,Server,,Super Micro,10x2.5 Inch Bays (1U),,,,Active,NAP Cage 1,,R1-07,8,Front,
+Vormetric Card Reader,Server,,Generic,Shelf-CableManagement,,,,Active,Biltmore Suite 500 Server Room,,DevOps,,,
+yatin-test-01,Server,,Super Micro,3x3.5 Inch Bays (1U),,,,Active,NAP Cage 1,,R1-06,30,Front,IPMI: http://10.140.138.110/
+,Server,,Dell,R630,,3P7P082,3P7P082,Inventory,NAP Cage 1,,R2-02,36,Front,LOM IP:
+,Access Switch,,Cisco,N9K-C93120TX,,CMMSA00ARB,,Active,NAP Cage 1,,R2-R5,45,Rear,
+,Server,,Dell,PowerVault MD1200,,6HK00M2,14122212122,Active,NAP Cage 1,,Location pending audit,24,Front,
+,Server,,Dell,R640,,8HM6JL2,18479440550,Active,NAP Cage 1,,Location pending audit,23,Front,LOM 10.141.0.134
+,Server,,Dell,R640,,95300M2,19898411546,Active,NAP Cage 1,,Location pending audit,22,Front,LOM 10.141.0.135
+,Server,,Dell,R740,,CMJYHL2,27485165702,Active,NAP Cage 1,,Location pending audit,20,Front,
+,Server,,Dell,R620,,7K60TW1,7K60TW1,Inventory,NAP Cage 1,,R2-02,35,Front,
+,Server,,Dell,R830,,2TH70M2,6135964634,Active,NAP Cage 1,,Location pending audit,18,Front,LOM 10.141.0.136
+,Server,,Dell,R630,,3P7M082,3P7M082,Inventory,NAP Cage 1,,R2-02,34,Front,
+,Management Switch,,Sangoma,Vega 200G,,005058201540,,Active,NAP Cage 1,,R1-02,2,Front,
+,Firewall,,Cisco,ASA5516-x,,,,Inventory,NAP Cage 1,,Location pending audit,32,Front,
+,Server,,Dell,R630,,,,Active,NAP Cage 1,,Location pending audit,,,LOM 10.141.1.62
+,Server,,Dell,R620,,CB1X942,26789747042,Inventory,NAP Cage 1,,Location pending audit,,,
+,Access Switch,,Dell,N2048,,,,Inventory,Ops Storage,,,,,
