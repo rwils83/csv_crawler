@@ -1,4 +1,0 @@
-Please Enter the File Name: Enter the First Field: Enter the second field: Computer Name                                                  Building
-*** Testing Computer ***                                Remote Employee
-**Stolen Computer ** Souvik’s MacBook Pro                               
-**Stolen Computer ** Souvik’s MacBook Pro (2)
